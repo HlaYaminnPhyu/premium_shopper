@@ -352,19 +352,28 @@ const HomePage = () => {
                                         <a href="#" className=' sh-card-img-hover d-block'>
                                             <img src={back1} className=' card-img-top img-back ' alt="" />
                                             <img src={front1} className=' card-img-top img-front' alt="" />
-                                            <div className=' sh-card-actions gap-2'>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary' type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                                        < AiOutlineEye className=' text-black-50' />
-                                                    </button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><LuShoppingCart className=' text-black-50'/></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><AiOutlineHeart className=' text-black-50'/></button>
-                                                </span>
-                                            </div>
+                                            <div className=" sh-card-actions gap-2">
+                              <span className=" sh-card-action">
+                                <button
+                                  className="  btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary"
+                                  type="button"
+                                  data-bs-toggle="modal"
+                                  data-bs-target="#exampleModal"
+                                >
+                                  <AiOutlineEye className=" " />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary">
+                                  <LuShoppingCart className="" />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary ">
+                                  <AiOutlineHeart className=" " />
+                                </button>
+                              </span>
+                            </div>
                                         </a>
                                         
                                     </div>
@@ -381,17 +390,28 @@ const HomePage = () => {
                                         <a href="#" className=' sh-card-img-hover d-block'>
                                             <img src={back2} className=' card-img-top img-back ' alt="" />
                                             <img src={front2} className=' card-img-top img-front' alt="" />
-                                            <div className=' sh-card-actions gap-2'>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary' type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">< AiOutlineEye className=' text-black-50' /></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><LuShoppingCart className=' text-black-50'/></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><AiOutlineHeart className=' text-black-50'/></button>
-                                                </span>
-                                            </div>
+                                            <div className=" sh-card-actions gap-2">
+                              <span className=" sh-card-action">
+                                <button
+                                  className="  btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary"
+                                  type="button"
+                                  data-bs-toggle="modal"
+                                  data-bs-target="#exampleModal"
+                                >
+                                  <AiOutlineEye className=" " />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary">
+                                  <LuShoppingCart className="" />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary ">
+                                  <AiOutlineHeart className=" " />
+                                </button>
+                              </span>
+                            </div>
                                         </a>
                                         
                                     </div>
@@ -409,17 +429,28 @@ const HomePage = () => {
                                         <a href="#" className=' sh-card-img-hover d-block'>
                                             <img src={back3} className=' card-img-top img-back ' alt="" />
                                             <img src={front3} className=' card-img-top img-front' alt="" />
-                                            <div className=' sh-card-actions gap-2'>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary' type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">< AiOutlineEye className=' text-black-50' /></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><LuShoppingCart className=' text-black-50'/></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><AiOutlineHeart className=' text-black-50'/></button>
-                                                </span>
-                                            </div>
+                                            <div className=" sh-card-actions gap-2">
+                              <span className=" sh-card-action">
+                                <button
+                                  className="  btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary"
+                                  type="button"
+                                  data-bs-toggle="modal"
+                                  data-bs-target="#exampleModal"
+                                >
+                                  <AiOutlineEye className=" " />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary">
+                                  <LuShoppingCart className="" />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary ">
+                                  <AiOutlineHeart className=" " />
+                                </button>
+                              </span>
+                            </div>
                                         </a>
                                         
                                     </div>
@@ -437,17 +468,28 @@ const HomePage = () => {
                                         <a href="#" className=' sh-card-img-hover d-block'>
                                             <img src={back4} className=' card-img-top img-back ' alt="" />
                                             <img src={front4} className=' card-img-top img-front' alt="" />
-                                            <div className=' sh-card-actions gap-2'>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary' type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">< AiOutlineEye className=' text-black-50' /></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><LuShoppingCart className=' text-black-50'/></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><AiOutlineHeart className=' text-black-50'/></button>
-                                                </span>
-                                            </div>
+                                            <div className=" sh-card-actions gap-2">
+                              <span className=" sh-card-action">
+                                <button
+                                  className="  btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary"
+                                  type="button"
+                                  data-bs-toggle="modal"
+                                  data-bs-target="#exampleModal"
+                                >
+                                  <AiOutlineEye className=" " />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary">
+                                  <LuShoppingCart className="" />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary ">
+                                  <AiOutlineHeart className=" " />
+                                </button>
+                              </span>
+                            </div>
                                         </a>
                                         
                                     </div>
@@ -465,17 +507,28 @@ const HomePage = () => {
                                         <a href="#" className=' sh-card-img-hover d-block'>
                                             <img src={back5} className=' card-img-top img-back ' alt="" />
                                             <img src={front5} className=' card-img-top img-front' alt="" />
-                                            <div className=' sh-card-actions gap-2'>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary' type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">< AiOutlineEye className=' text-black-50' /></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><LuShoppingCart className=' text-black-50'/></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><AiOutlineHeart className=' text-black-50'/></button>
-                                                </span>
-                                            </div>
+                                            <div className=" sh-card-actions gap-2">
+                              <span className=" sh-card-action">
+                                <button
+                                  className="  btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary"
+                                  type="button"
+                                  data-bs-toggle="modal"
+                                  data-bs-target="#exampleModal"
+                                >
+                                  <AiOutlineEye className=" " />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary">
+                                  <LuShoppingCart className="" />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary ">
+                                  <AiOutlineHeart className=" " />
+                                </button>
+                              </span>
+                            </div>
                                         </a>
                                         
                                     </div>
@@ -492,17 +545,28 @@ const HomePage = () => {
                                     <div className=' sh-card-img position-relative'>
                                         <a href="#" className=' sh-card-img-hover d-block'>
                                             <img src={pro5} className=' card-img-top  ' alt="" />
-                                            <div className=' sh-card-actions gap-2'>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary' type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">< AiOutlineEye className=' text-black-50' /></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><LuShoppingCart className=' text-black-50'/></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><AiOutlineHeart className=' text-black-50'/></button>
-                                                </span>
-                                            </div>
+                                            <div className=" sh-card-actions gap-2">
+                              <span className=" sh-card-action">
+                                <button
+                                  className="  btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary"
+                                  type="button"
+                                  data-bs-toggle="modal"
+                                  data-bs-target="#exampleModal"
+                                >
+                                  <AiOutlineEye className=" " />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary">
+                                  <LuShoppingCart className="" />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary ">
+                                  <AiOutlineHeart className=" " />
+                                </button>
+                              </span>
+                            </div>
                                         </a>
                                         
                                     </div>
@@ -518,17 +582,28 @@ const HomePage = () => {
                                     <div className=' sh-card-img position-relative'>
                                         <a href="#" className=' sh-card-img-hover d-block'>
                                             <img src={pro6} className=' card-img-top  ' alt="" />
-                                            <div className=' sh-card-actions gap-2'>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary' type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">< AiOutlineEye className=' text-black-50' /></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><LuShoppingCart className=' text-black-50'/></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><AiOutlineHeart className=' text-black-50'/></button>
-                                                </span>
-                                            </div>
+                                            <div className=" sh-card-actions gap-2">
+                              <span className=" sh-card-action">
+                                <button
+                                  className="  btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary"
+                                  type="button"
+                                  data-bs-toggle="modal"
+                                  data-bs-target="#exampleModal"
+                                >
+                                  <AiOutlineEye className=" " />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary">
+                                  <LuShoppingCart className="" />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary ">
+                                  <AiOutlineHeart className=" " />
+                                </button>
+                              </span>
+                            </div>
                                         </a>
                                         
                                     </div>
@@ -544,17 +619,28 @@ const HomePage = () => {
                                     <div className=' sh-card-img position-relative'>
                                         <a href="#" className=' sh-card-img-hover d-block'>
                                             <img src={pro7} className=' card-img-top  ' alt="" />
-                                            <div className=' sh-card-actions gap-2'>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary' type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">< AiOutlineEye className=' text-black-50' /></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><LuShoppingCart className=' text-black-50'/></button>
-                                                </span>
-                                                <span className=' sh-card-action'>
-                                                    <button className=' btn-circle sh-btn-xs sh-btn-white-primary'><AiOutlineHeart className=' text-black-50'/></button>
-                                                </span>
-                                            </div>
+                                            <div className=" sh-card-actions gap-2">
+                              <span className=" sh-card-action">
+                                <button
+                                  className="  btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary"
+                                  type="button"
+                                  data-bs-toggle="modal"
+                                  data-bs-target="#exampleModal"
+                                >
+                                  <AiOutlineEye className=" " />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary">
+                                  <LuShoppingCart className="" />
+                                </button>
+                              </span>
+                              <span className=" sh-card-action">
+                                <button className=" btn-circle sh-btn-xs tw-text-gray-500 hover:tw-text-white hover:tw-bg-[#ff6f61] sh-btn-white-primary ">
+                                  <AiOutlineHeart className=" " />
+                                </button>
+                              </span>
+                            </div>
                                         </a>
                                         
                                     </div>

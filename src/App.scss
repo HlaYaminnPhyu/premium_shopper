@@ -493,6 +493,7 @@ $theme-colors: (
 }
 
 .sh-card-img-hover:hover .img-back{
+ 
     opacity: 1;
     
 }
@@ -509,12 +510,12 @@ $theme-colors: (
 
 .sh-card-actions .sh-card-action::nth-child(2){
 
-    transition-delay: 75ms;
+    transition-delay: .2s;
 }
 
 .sh-card-actions .sh-card-action:last-child{
 
-    transition-delay: .15s;
+    transition-delay: .3s;
 }
 
 .sh-badge{
